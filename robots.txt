@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://dowearinc.github.io/dowearinc.txt.gz
+Sitemap: https://dowearinc.github.io/app/dowearinc.txt.gz
+Sitemap: https://dowearinc.github.io/assets/dowearinc.txt.gz
+Sitemap: https://dowearinc.github.io/css/dowearinc.txt.gz
+Sitemap: https://dowearinc.github.io/includes/dowearinc.txt.gz
+Sitemap: https://dowearinc.github.io/item/dowearinc.txt.gz
+Sitemap: https://dowearinc.github.io/src/dowearinc.txt.gz
